@@ -34,7 +34,9 @@ monopoly = {:railroads => {
     :b_and_o_railroad => {},
     :shortline_railroad => {}
   }
-}end
+}
+}
+end
 
 def monopoly_with_fourth_tier
   # When you start writing the implementation for this method, copy the Hash
